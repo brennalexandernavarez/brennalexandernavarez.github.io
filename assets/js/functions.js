@@ -1,4 +1,4 @@
-// @codekit-prepend "/vendor/hammer-2.0.8.js";
+
 
 $( document ).ready(function() {
 
@@ -276,5 +276,7 @@ $( document ).ready(function() {
   outerNav();
   workSlider();
   transitionLabels();
+
+  
 
 });
