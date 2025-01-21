@@ -1077,6 +1077,11 @@ body {
   .contact--lockup .modal {
     margin-bottom: 30%;
   }
+
+  .work-request{
+    margin-bottom: 30%;
+  }
+
   .intro--options {
     padding-bottom: 20%;
     -webkit-text-size-adjust: 80%;
@@ -1100,6 +1105,10 @@ body {
   }
 
   .contact--lockup .modal {
+    margin-bottom: 50%;
+  }
+
+  .work-request{
     margin-bottom: 50%;
   }
 
