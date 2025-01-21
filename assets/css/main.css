@@ -1082,6 +1082,15 @@ body {
     margin-bottom: 30%;
   }
 
+  .responsive-iframe-container{
+    margin-bottom:30%;
+  }
+
+  .desc-text{
+    margin-right: 10%;
+  }
+
+
   .intro--options {
     padding-bottom: 20%;
     -webkit-text-size-adjust: 80%;
@@ -1110,6 +1119,14 @@ body {
 
   .work-request{
     margin-bottom: 50%;
+  }
+
+  .responsive-iframe-container{
+    margin-bottom:50%;
+  }
+
+  .desc-text{
+    margin-right: 10%;
   }
 
   .intro--options {
