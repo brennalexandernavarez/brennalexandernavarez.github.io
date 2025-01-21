@@ -1073,6 +1073,10 @@ body {
   .work--lockup {
     margin-bottom: 30%;
   }
+
+  div.modal{
+    margin-bottom: 30%;
+  }
   .intro--options {
     padding-bottom: 20%;
     -webkit-text-size-adjust: 80%;
@@ -1095,6 +1099,9 @@ body {
     margin-bottom: 50%;
   }
 
+  div.modal{
+    margin-bottom: 50%;
+  }
 
   .intro--options {
     padding-bottom: 20%;
