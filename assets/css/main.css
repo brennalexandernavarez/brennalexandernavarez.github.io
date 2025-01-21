@@ -1068,7 +1068,7 @@ body {
   }
 }
 
-@media (max-width: 420px){
+@media (max-width: 420px) and (max-height:900px){
   .intro--options {
     padding-bottom: 20%;
     -webkit-text-size-adjust: 80%;
