@@ -1084,6 +1084,23 @@ body {
 }
 
 
+
+@media (max-width: 393px){
+  .intro--options {
+    padding-bottom: 20%;
+    -webkit-text-size-adjust: 80%;
+  }
+
+  .intro--banner {
+    padding-top: 10%;
+  }
+
+  .intro--banner::before, .intro--banner::after {
+    display: none;
+  }
+}
+
+
 .work {
   position: relative;
   display: -webkit-box;
